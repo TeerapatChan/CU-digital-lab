@@ -1,0 +1,14 @@
+.i 3
+.o 8
+.ilb s0 s1 s2
+.ob o0 o1 o2 o3 o4 o5 o6 o7 
+.p 8
+000 0xxxxxxx
+001 x0xxxxxx
+010 xx1xxxxx 
+011 xxx0xxxx
+100 xxxx1xxx
+101 xxxxx1xx
+110 xxxxxx1x
+111 xxxxxxx0
+.e

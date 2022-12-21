@@ -1,0 +1,119 @@
+TTimingPrintSettings::ReadFromINI
+OwlMain
+Tue Jul 13 13:09:09 2010
+
+GetModuleFileName=C:\VLOGGER\vlogev.exe
+TTimingDocClssFactory constructed
+Inside TTimingDocClassFactory::LockServer 
+SelectTab by ptr
+SelectTab by ptr
+SelectTab by ptr
+SelectTab by num: 0
+SelectTab by ptr
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-0,0)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-0,0)
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-169,0)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-169,0)
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-170,0)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-170,0)
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-0,0)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-0,0)
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-372,225)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-372,225)
+OpenFileNoDup: C:\Documents and Settings\Student\Desktop\Lab5\waveperl.log isRealFile: 1 selectFlag: 0
+OpenFileNoDup: C:\Documents and Settings\Student\Desktop\Lab5\waveperl.log isRealFile: 1 selectFlag: 0
+OleShutdown
+TimingDocIsDirty
+TimingDocIsDirty
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_DATACHANGED 
+TRunningObjectTableManager::NoteChangeTime
+***File Moniker updated: 
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_SAVEOBJECT 
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_SAVED attempted
+TimingDocIsDirty
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_HIDEWINDOW 
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_CLOSED 
+TimingDocIsDirty
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-372,225)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-372,225)
+TRunningObjectTableManager::CreateFileMoniker
+TRunningObjectTableManager::DeleteMoniker
+TOleManager::QueryInterface  8-0-0-¿
+      No Interface8-0-0-¿
+
+TOleManager::QueryInterface  3-0-0-¿
+      No Interface3-0-0-¿
+
+TOleManager::QueryInterface  27-0-0-¿
+      No Interface27-0-0-¿
+
+TOleManager::QueryInterface  0-0-0-¿
+      IUnknown
+TOleManager::QueryInterface  24-0-0-¿
+      No Interface24-0-0-¿
+
+TOleManager::QueryInterface  25-0-0-¿
+      No Interface25-0-0-¿
+
+TOleManager::QueryInterface  1277049313-58339-17046-™ÜÏìçâníêêêêêãˇUãÏQ3¿SãŸãM˜—Ä·ˆŸVãuWç{âE¸hÙ
+      No Interface1277049313-58339-17046-™ÜÏìçâníêêêêêãˇUãÏQ3¿SãŸãM˜—Ä·ˆŸVãuWç{âE¸hÙ
+
+TOleManager::QueryInterface  3-0-0-¿
+      No Interface3-0-0-¿
+
+TOleManager::QueryInterface  27-0-0-¿
+      No Interface27-0-0-¿
+
+TOleManager::QueryInterface  0-0-0-¿
+      IUnknown
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_RENAMED
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-372,225)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-372,225)
+MaybeDoASendAdvise :: whos idea was this
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_DATACHANGED 
+TRunningObjectTableManager::NoteChangeTime
+***File Moniker updated: 
+OleShutdown
+TimingDocIsDirty
+TimingDocIsDirty
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_DATACHANGED 
+TRunningObjectTableManager::NoteChangeTime
+***File Moniker updated: 
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_SAVEOBJECT 
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_SAVED attempted
+TimingDocIsDirty
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_HIDEWINDOW 
+Inside TTimingDoc::SendAdvise
+   OBJECTCODE_CLOSED 
+Inside TDrawWnd::InvalidateRect 
+   rect = (0,0-502,225)
+   erase = 1
+After TDrawWnd::InvalidateRect, rect = (0,0-502,225)
+TRunningObjectTableManager::DeleteMoniker
+TRunningObjectTableManager::DeleteMoniker
+TRunningObjectTableManager::DeleteMoniker
